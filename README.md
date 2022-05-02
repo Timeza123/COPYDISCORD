@@ -13,7 +13,10 @@ pip install discord
 
 pip install requests
 
+pip install colorama 
+
 git clone https://github.com/Timeza123/COPYDISCORD
 
 cd COPYDISCORD 
+
 python3 clonediscord.py
