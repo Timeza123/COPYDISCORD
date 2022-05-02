@@ -12,3 +12,8 @@ pkg install git
 pip install discord
 
 pip install requests
+
+git clone https://github.com/Timeza123/COPYDISCORD
+
+cd COPYDISCORD 
+python3 clonediscord.py
